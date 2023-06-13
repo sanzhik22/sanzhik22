@@ -10,7 +10,7 @@ I anm data junor data engineer in PDM .
 - :mailbox:How to reach me:  anapiyaevs0519@gmail.com
 
 ---
-
+asdasdasdasdasdasdasd
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
