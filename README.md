@@ -1,5 +1,5 @@
 ### :man_technologist: About Me :
-I anm data junor data engineer in PDM .
+I am junor data engineer in PDM .
 
 - :movie_camera: I love watching movie.
 
@@ -10,7 +10,6 @@ I anm data junor data engineer in PDM .
 - :mailbox:How to reach me:  anapiyaevs0519@gmail.com
 
 ---
-asdasdasdasdasdasdasd
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
@@ -21,4 +20,4 @@ asdasdasdasdasdasdasd
 ---
 
 ### :fire: My Stats :
-
+![Sanzhik22 Git stats](https://github-readme-stats.vercel.app/api?username=sanzhik22&theme=chartreuse-dark&show_icons=true)
